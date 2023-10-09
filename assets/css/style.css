@@ -785,7 +785,7 @@ tr:nth-child(odd) {
     }
 
     #jumbotron-illustration>img {
-        width: 200px;
+        width: 200rem;
         margin-bottom: 20px;
     }
 
