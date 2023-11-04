@@ -113,6 +113,7 @@ nav>.navigation-header {
 
 #jumbotron-illustration {
     width: "500rem";
+    display: "none";
     padding-left: 50px;
 }
 
